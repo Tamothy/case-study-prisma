@@ -1,6 +1,6 @@
 # Tam's Case Study: Prisma
 
-#### Case Study containing Prisma project, 09.28.2016
+#### Case Study containing Prisma project, 09.30.2016
 
 #### By Tam Nguyen
 
