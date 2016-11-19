@@ -10,7 +10,7 @@ This contains the case study for Prisma, an interactive website that allows user
 
 ## Setup/Installation Requirements
 
-* Check out the GitHub pages link: https://tamothy.github.io/case_study_prisma
+* Check out the GitHub pages link: https://tamothy.github.io/case-study-prisma
 * Clone repository if interested in changing case study
 * Use Atom to customize changes
 * Make sure to commit regularly on terminal
