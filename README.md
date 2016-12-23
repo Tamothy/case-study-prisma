@@ -6,7 +6,7 @@
 
 ## Description
 
-This contains the case study for Prisma, an interactive website that allows users to watch films based on color selection.
+Click to edit project descriptionPrisma allows users to watch and review films based on color choice. The purpose was think in perspective of a designer, and because of this, the project implements wireframes, mockups, and prototypes. Sketch and InVision software were utilized for the project, ensuring a smooth transition process from mockup to prototyping.
 
 ## Setup/Installation Requirements
 
@@ -15,10 +15,6 @@ This contains the case study for Prisma, an interactive website that allows user
 * Use Atom to customize changes
 * Make sure to commit regularly on terminal
 * Don't forget to push to remote repository
-
-## Known Bugs
-
-Originally there was a bug setting up the GitHub linked pages with index.html, but this was fixed by creating a branch gh-pages through the remote repository. For some reason the GitHub pages doesn't work if you create a local gh-pages branch on your terminal and then pushing gh-pages to your remote repository.
 
 ## Support and contact details
 
